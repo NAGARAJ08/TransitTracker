@@ -51,6 +51,13 @@ The TransitTracker system is composed of the following components:
 - **Database (MongoDB):** Stores bus location data and ETA predictions.
 - **Message Broker (Kafka):** Facilitates real-time data streaming between components.
 
+### Here's a screenshot of the TransitTracker interface:
+#### Bus Status Image
+![TransitTracker - Bus Location](Transit_tracker/images/bus.png)
+
+#### ETA 
+![TransitTracker- ETA ](Transit_tracker/images/ETA.png)
+
 ## Getting Started
 
 ### Prerequisites
