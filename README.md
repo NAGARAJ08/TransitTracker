@@ -120,13 +120,10 @@ The TransitTracker system is composed of the following components:
 
 ## Project Structure
 ```bash
-TransitTracker/
+Transit_tracker/
 ├── api.py
 ├── eta.py
 ├── gps_data_simulator.py
 ├── requirements.txt
 ├── static/
 │   ├── index.html
-│   ├── style.css
-│   └── logo.png
-└── README.md
